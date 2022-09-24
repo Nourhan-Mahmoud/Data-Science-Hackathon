@@ -1,0 +1,75 @@
+The most profound technologies are those that disappear.
+They weave themselves into the fabric of everyday life until they are indistinguishable from it. Consider writing, perhaps the first information technology. The ability to represent
+spoken language symbolically for longterm storage freed information from the limits of individual memory. Today this
+technology is ubiquitous in industrialized countries. Not only
+do books, magazines and newspapers convey written information, but so do street signs, billboards, shop signs and even
+graffiti. Candy wrappers are covered in writing. The constant
+background presence of these products of "literacy technology" does not require active attention, but the information to
+be transmitted is ready for use at a glance. It is difficult to
+imagine modern life otherwise.
+Silicon-based inlbrmation technology, in contrast, is far
+from having become part of the environment. More than 50
+million personal computers have been sold, and the computer
+nonetheless remains largely in a world of its own. It is approachable only through complex jargon that has nothing to
+do with the tasks for which people use computers. The state
+of the art is perhaps analogous to the period when scribes had
+to know as much about making ink or baking clay as they did
+about writing. The arcane aura that surrounds personal computers is not just a "user interface" problem. My colleagues
+and I at the Xerox Palo Alto Research Center think that the
+idea of a "personal" computer itself is misplaced and that the
+vision of laptop machines, dynabooks and "knowledge navigators" is only a transitional step toward achieving the real
+potential of information technology. Such machines cannot
+truly make computing an integral, invisible part of people's
+lives. We are therefore trying to conceive a new way of thinking about computers, one that takes into account the human
+world and allows the computers themselves to vanish into the
+background.
+Such a disappearance is a fundamental consequence not of
+technology but of human psychology. Whenever people learn
+something sufficiently well, they cease to be aware of it. When
+you look at a street sign, for example, you absorb its information without conseiously performing the act of reading.
+Computer scientist, economist and Nobelist Herbert A. Simon calls this phenomenon "compiling"; philosopher Michael
+Polanyi calls it the "tacit dimension"; psychologist J. J. Gibson
+calls it "visual invariants"; philosophers ttans Georg Gadamer
+and Martin Heidegger call it the "horizon" and the "ready-tohand"; John Seely Brown of PARe calls it the "periphery." All
+say, in essence, that only when things disappear in this way are
+we freed to use them without thinking and so to focus beyond
+them on new goals.
+The idea of integrating computers seamlessly into the world
+at large runs counter to a number of present-day trends. "Ubiquitous computing" in this context does not mean just computers that can be carried to the beach, jungle or airport. Even
+the most powerful notebook computer, with access to a worldwide information network, still focuses attention on a single
+box. By analogy with writing, carrying a super-lap-top is like
+owning just one very important book. Customizing this book,
+even writing millions of other books, does not begin to capture
+the real power of literacy.
+Furthermore, although ubiquitous computers may use sound
+and video in addition to text and graphics, that does not make
+them "multimedia computers." Today's multimedia machine
+makes the computer screen into a demanding focus of attention
+rather than allowing it to fade into the background.
+Perhaps most diametrically opposed to our vision is the notion of virtual reality, which attempts to make a world inside
+the computer. Users don special goggles that project an artificial scene onto their eyes; they wear gloves or even bodysuits
+that sense their motions and gestures so that they can move
+about and manipulate virtual objects. Although it may have its
+purpose in allowing people to explore realms otherwise inaccessible -- the insides of cells, the surfaces of distant planets,
+the information web of data bases -- virtual reality is only a
+map, not a territory. It excludes desks, offices, other people not
+wearing goggles and bodysuits, weather, trees, walks, chance
+encounters and, in general, the infinite richness of the universe.
+Virtual reality focuses an enormous apparatus on simulating
+the world rather than on invisibly enhancing the world that already exists.
+Indeed, the opposition between the notion of virtual reality
+and ubiquitous, invisible computing is so strong that some of
+us use the term "embodied virtuality" to refer to the process
+of drawing computers out of their electronic shells. The "virtuality" of computer-readable data -- all the different ways
+in which they can be altered, processed and analyzed -- is
+brought into the physical world.
+How do technologies disappear into the background? The
+vanishing of electric motors may serve as an instructive example. At the turn of the century, a typical workshop or factory contained a single engine that drove dozens or hundreds
+of different machines through a system of shafts and pulleys.
+Cheap, small, efficient electric motors made it possible first to
+give each tool its own source of motive force, then to put many
+motors into a single machine.
+A glance through the shop manual of a typical automobile,
+for example, reveals 22 motors and 25 solenoids. They start
+the engine, clean the windshield, lock and unlock the doors,
+and so on. By paying careful attention, the driver might be 
